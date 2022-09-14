@@ -1,4 +1,5 @@
 // Steven Luu 260866167
+// steven.luu@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
